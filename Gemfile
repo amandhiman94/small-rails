@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+#test
 gem 'rails', '4.2.0'
 gem 'rails-api', '~> 0.4.0'
 gem 'active_model_serializers', '~> 0.8.3' # NOTE: not the 0.9
